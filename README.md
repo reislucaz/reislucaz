@@ -1,3 +1,3 @@
 - 🌱 Engenheiro de Software pela UNIEvangélica de Goiás.
-- 💻 Desenvolvedor Full-Stack Pleno.
+- 💻 Desenvolvedor Full-Stack Pleno na CI&T.
 - 📫 E-mail de contato: lucasreisribeiro97@gmail.com
